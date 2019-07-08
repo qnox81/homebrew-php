@@ -8,7 +8,7 @@ Other extensions that used to be available from, the now deprecated, [Homebrew/p
 Run
 
 ```
-brew tap qnox81/php-ext
+brew tap qnox81/php
 ```
 
 followed by
